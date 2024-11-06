@@ -13,3 +13,4 @@ jobs:
     with:
       ENV: 'stage'
       CREATE_PR: false
+      DEPLOYMENT_CONFIGS_REPO: 'olarashared'
