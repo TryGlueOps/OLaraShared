@@ -13,4 +13,4 @@ jobs:
     with:
       ENV: 'prod'
       CREATE_PR: true
-      DEPLOYMENT_CONFIGS_REPO: 'olarashared'
+      DEPLOYMENT_CONFIGS_APP_NAME: 'olarashared'
